@@ -1,0 +1,7 @@
+{
+  "name": "DrinkUp!",
+  "description": "A hydration tracking app with a chrono-fluid aesthetic that uses AI proof-of-consumption to verify water intake.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
